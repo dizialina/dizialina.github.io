@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "67YHSUMF82.AEg.MatrixLogin",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
